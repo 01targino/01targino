@@ -1,4 +1,4 @@
-# Olá, eu sou a Isabela! 👋  
+# Oii, eu sou a Isabela! 👋  
 
 **Desenvolvedora Backend em formação | Apaixonada por tech 🚀**  
 
