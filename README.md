@@ -3,7 +3,7 @@
 **Desenvolvedora Backend em formação | Apaixonada por tech 🚀**  
 
 - 🎓 **Cursando**: Análise e Desenvolvimento de Sistemas | 3º semestre
-- 💻 **Skills**: Java | PHP | JavaScript | Spring Boot | MySQL 
+- 💻 **Skills**: Java | PHP | JavaScript | Spring Boot | SQL 
 - 🎯 Buscando oportunidades como **Backend Developer**  
 
 ---
