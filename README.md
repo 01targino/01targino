@@ -33,4 +33,3 @@
 ### 🌐 Conecte-se comigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-targino-0b5552303/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](isabelatargino89@gmail.com)
