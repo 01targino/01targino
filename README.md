@@ -20,7 +20,7 @@
 
 ### 📊 Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=01targino&show_icons=true&hide=prs&count_private=true&theme=radical&bg_color=F0F0F0)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=01targino&show_icons=true&theme=radical&hide=stars)
 
 ---
 
