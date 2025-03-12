@@ -1,4 +1,4 @@
-# Oi, eu sou a Isabela! 👋  
+# Oi, eu sou a Isabela Targino! 👋  
 
 **Desenvolvedora Backend em formação | Apaixonada por tech 🚀**  
 
